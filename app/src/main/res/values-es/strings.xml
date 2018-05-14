@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nombre_app">Simpsons</string>
+    <string name="agregar_personaje">Agregar personaje</string>
+    <string name="modificar_posicion">Modificar posición</string>
+    <string name="eliminar_personaje">Eliminar personaje</string>
+    <string name="lenguaje_app">Es</string>
+    <string name="menu_lenguaje">Cambiar Lenguaje</string>
+    <string name="txtHistoria">Historia</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtURL">URL</string>
+    <string name="btnRegistrar">Registrar</string>
+
+</resources>
